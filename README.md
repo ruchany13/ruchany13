@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ruchany13
 - 👀 I’m interested in DevOps / Linux
-- 🌱 I’m currently learning Microservice archtitecture
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DevOps 
 - 📫 How to reach me ruchany13@gmail.com
 
 <!---
