@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruchan from World
 - 👀 I’m interested in DevOps / Linux
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently working DevOps Engineer
 - 📫 How to reach me ruchany13@gmail.com
 
 <!---
